@@ -34,7 +34,7 @@ int main()
 	else
 	{
 		cout << "#Even numbers = "<<countEven<<endl;
-    	cout << "#Odd numbers = "<<countOdd;
+    		cout << "#Odd numbers = "<<countOdd;
 	}
     return 0;
 }
